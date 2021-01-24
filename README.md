@@ -23,4 +23,12 @@
  ## How to test the code in this repo
  You can view the logic which is in the files. Feel free to examine and leave a remark for any advice or enahncements. 
 
+ ### Modules needed
+ 1. pip install matplotlib
+ 2. pip install pandas
+ 3. pip install numpy
+
+You can use any editor of choice. I utilized visual studio code, spyder, juypter notebook and pycharm. 
+
+
  
