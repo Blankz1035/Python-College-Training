@@ -9,7 +9,7 @@
  2. Use of conditional programming (IF ELIF Else statements)
  3. Repitition control structures (While, For).
  4. Lists, Tuples and Sets
- 5. File Input / Output
+ 5. File Input / Output and Shelves
  6. Functions and Modules
  7. Exceptions and required handling.
  8. Data Structures
