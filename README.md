@@ -8,7 +8,7 @@
  1. What is python? Basic Python program (hello world of course!)
  2. Use of conditional programming (IF ELIF Else statements)
  3. Repitition control structures (While, For).
- 4. Lists and Tuples
+ 4. Lists, Tuples and Sets
  5. File Input / Output
  6. Functions and Modules
  7. Exceptions and required handling.
